@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+##### 未完 #####
+
 if type -t wevtutil &> /dev/null
 then
     OS=MSWin
