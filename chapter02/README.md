@@ -2,7 +2,7 @@
 
 ## 1.
 
-未完
+ファイル: [01_osdetect.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter02/01_osdetect.sh)
 
 ## 2.
 
