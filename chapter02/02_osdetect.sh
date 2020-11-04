@@ -12,7 +12,7 @@ function osdetect()
     else
         OS=Linux
     fi
-    echo $OS
 }
 
 osdetect
+echo $OS
