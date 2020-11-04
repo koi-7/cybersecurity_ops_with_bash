@@ -2,13 +2,11 @@
 
 ##### 未完 #####
 
-if type -t wevtutil &> /dev/null
-then
-    OS=MSWin
-elif type -t scutil &> /dev/null
-then
+if [[ $(uname) == "Darwin" ]]; then
     OS=macOS
-else
+elif [[ $(uname) == "Linux" ]]; then
     OS=Linux
+else
+    OS=MSWin
 fi
 echo $OS
