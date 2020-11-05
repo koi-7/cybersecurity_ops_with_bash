@@ -6,3 +6,11 @@ osdetect.sh
 # 3章
 frost.txt
 tags.txt
+
+# 5章
+cutfile.txt
+winlogs.sh
+cmds.txt
+getlocal.sh
+typesearch.sh
+hashsearch.sh
