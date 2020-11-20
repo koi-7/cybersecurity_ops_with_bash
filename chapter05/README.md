@@ -24,7 +24,7 @@
 
 ## 5.
 
-ファイル: [05_getlocal.sh]()
+ファイル: [05_getlocal.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter05/05_getlocal.sh)
 
 - 最後の行にデータを転送するためのコマンドを記述する
 
