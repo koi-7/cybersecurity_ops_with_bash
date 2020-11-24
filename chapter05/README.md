@@ -30,10 +30,31 @@
 
 ## 6.
 
+未完
+
 ## 7.
+
+### a.
+
+ファイル: [07-a_hashsearch.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter05/07-a_hashsearch.sh)
+
+- パラメータの先頭が "./" かどうかチェックする文を追加する
+
+### b.
+
+ファイル: [07-b_hashsearch.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter05/07-b_hashsearch.sh)
+
+- パラメータの先頭が "../" かどうかチェックする文を追加する
+- 余分なディレクトリ名の削除には ```$(cd ..; pwd)``` を用いる
 
 ## 8.
 
+Git Bash が必要なため略
+
 ## 9.
 
+Git Bash が必要なため略
+
 ## 10.
+
+Git Bash が必要なため略
