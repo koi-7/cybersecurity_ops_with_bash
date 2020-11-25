@@ -1,23 +1,12 @@
 # 2章
-echoparams.sh
-args.sh
-osdetect.sh
 
 # 3章
-frost.txt
-tags.txt
 
 # 5章
-cutfile.txt
-winlogs.sh
-cmds.txt
-getlocal.sh
-typesearch.sh
-hashfilea.txt
-hashfileb.txt
-hashsearch.sh
 
 06_hashsearch.sh
 08_winlogs.sh
 09_winlogs.sh
 10_winlogs.sh
+
+# 6章
