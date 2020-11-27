@@ -72,13 +72,13 @@ cut -d' ' -f1,10 access.log | bash summer.sh | bash 03_histogram.sh -s 25
 
 ### a.
 
-ファイル: [04-a_histogram.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter07/04-a_histogram.sh)
+ファイル: [04-a_useragents.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter07/04-a_useragents.sh)
 
 - 引数の数で場合分けを行う
 
 ### b.
 
-ファイル: [04-b_histogram.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter07/04-b_histogram.sh)
+ファイル: [04-b_useragents.sh](https://github.com/koi-7/cybersecurity_ops_with_bash/blob/master/chapter07/04-b_useragents.sh)
 
 - getopts を使ってオプションを追加し、適当な変数にファイル名を代入し、後の awk にそのファイル名を渡す
 
