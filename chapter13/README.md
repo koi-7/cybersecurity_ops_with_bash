@@ -8,7 +8,6 @@
   - P オプション: Perl で用いられる正規表現を使用する
 
 ```
-$ curl -Ls https://www.oreilly.co.jp | grep -oP '[a-zA-Z0-9.!#$%&*+\/=?^_
-`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*'
+$ curl -Ls https://www.oreilly.co.jp | grep -oP '[a-zA-Z0-9.!#$%&*+\/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*'
 japan@oreilly.co.jp
 ```
