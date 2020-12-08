@@ -4,13 +4,13 @@
 
 # 5章
 
-06_hashsearch.sh
-08_winlogs.sh
-09_winlogs.sh
-10_winlogs.sh
+chapter05/06_hashsearch.sh
+chapter05/08_winlogs.sh
+chapter05/09_winlogs.sh
+chapter05/10_winlogs.sh
 
 # 6章
 
 # 7章
 
-05_pagereq.sh
+chapter07/05_pagereq.sh
