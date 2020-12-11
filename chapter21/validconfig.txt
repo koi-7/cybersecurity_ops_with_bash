@@ -1,0 +1,3 @@
+user jsmith
+file "c:\windows\system32\calc.exe"
+!file "c:\windows\system32\bad.exe"
