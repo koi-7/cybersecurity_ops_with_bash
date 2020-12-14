@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+
+
+EMAILIN="$1"
+if (( "$#" == 0 ))
+then
+    printf 'Enter email address: '
+    read EMAILIN
+fi
+
+##### 現在使用不可 #####
+EMAILIN="https://haveibeenpwned.com/api/v2/breachedaccount/$EMAILIN"
+
+echo 'Account pwned in the following breaches:'
+curl -s "$EMAILIN" | grep -Po '"Name":".*?"' | cut -d':' -f2 | tr -d '\"'
